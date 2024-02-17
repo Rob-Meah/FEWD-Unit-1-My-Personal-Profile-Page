@@ -180,9 +180,17 @@ a.social:hover {
   clear: both;
 }
 
-.qual-list li {
-padding: 10px;
+/*Custom css for resume.html*/
+.qual-list {
+  margin-left: 20px;
 }
+
+.qual-list li {
+  padding: 10px;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
